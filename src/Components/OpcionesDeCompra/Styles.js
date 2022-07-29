@@ -83,6 +83,7 @@ export const Section = styled.div`
                 height: 32px;
                 padding: 0 12px;
                 line-height: 32px;
+                font-weight: 500;
                 border-radius: 5px;
                 transition: all 300ms ease-in-out;
                 cursor: pointer;
@@ -101,7 +102,8 @@ export const Section = styled.div`
                 background-color: var(--blue4);
                 width: 133px;
                 height: 32px;
-                padding: 0 12px;
+                padding: 1 12px;
+                font-weight: 500;
                 line-height: 32px;
                 border-radius: 5px;
                 transition: all 300ms ease-in-out;
@@ -111,9 +113,6 @@ export const Section = styled.div`
                     color: var(--blue1);
                     padding: 1px 8px 3px 8px;
                 }
-            }
-            .add-carrito:hover{
-                background-color: var(--blue2) ;
             }
         }
 
