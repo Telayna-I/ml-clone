@@ -108,7 +108,7 @@ export const Section = styled.div`
                 cursor: pointer;
                 >span{
                     font-size: 12px;
-                    color: var(--white);
+                    color: var(--blue1);
                     padding: 1px 8px 3px 8px;
                 }
             }
